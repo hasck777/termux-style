@@ -69,7 +69,7 @@ cd $HOME
 
 ls 
 
-cd T-LOAD
+cd termux-style
 
 ls
 
@@ -81,7 +81,7 @@ cd $HOME
 
 ls
 
-cd T-LOAD
+cd termux-style
 
 ls
 
