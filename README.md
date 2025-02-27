@@ -18,7 +18,12 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-
+* `git clone https://github.com/hasck777/termux-style`
+* `cd $HOME`
+* `ls`
+* `cd T-LOAD`
+* `ls`
+* `bash t-load.sh`
 
 
 ## ERRORS FIXES :
@@ -27,3 +32,5 @@
 `apt install ndk-sysroot -y`
 `apt install libc++ -y`
 
+
+## OBS O SCRIPT FOI FEITO EM BASE DE OUTRO SOQUE ANTIGO SO ARRUMEI ALGUMS ERROS BJINHOS DO LZ SEU AMOR
