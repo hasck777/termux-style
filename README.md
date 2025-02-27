@@ -21,7 +21,7 @@
 * `git clone https://github.com/hasck777/termux-style`
 * `cd $HOME`
 * `ls`
-* `cd T-LOAD`
+* `cd termux-style `
 * `ls`
 * `bash t-load.sh`
 
